@@ -1,0 +1,33 @@
+button {
+  font-weight: bolder !important;
+  color: #000 !important;
+}
+
+#bubble {
+  background: #e25a00;
+}
+
+#insert {
+  background: #8FFA01;
+}
+
+#select {
+  background: #6CF5B8;
+}
+
+#merge {
+  background: #257BFF;
+}
+
+#quick {
+  background: #FFFA2D;
+}
+
+#radix {
+  background: #AC3AFF;
+}
+
+#list-stack {
+  max-height: 500px;
+  overflow-y: scroll;
+}
